@@ -1,0 +1,5 @@
+C:\Users\danie\OneDrive\Área de Trabalho\RicoMorti\obj\Release\net10.0-windows\RicoMorti.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Área de Trabalho\RicoMorti\obj\Release\net10.0-windows\Interface\MainWindow.g.cs
+C:\Users\danie\OneDrive\Área de Trabalho\RicoMorti\obj\Release\net10.0-windows\Other\App.g.cs
+C:\Users\danie\OneDrive\Área de Trabalho\RicoMorti\obj\Release\net10.0-windows\RicoMorti_MarkupCompile.cache
+C:\Users\danie\OneDrive\Área de Trabalho\RicoMorti\obj\Release\net10.0-windows\RicoMorti_MarkupCompile.lref
