@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\RickandMortyWiki\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9001614A-F7EE-ACAF-E5E7-E652F1622F56}|RickAndMortyWiki.csproj|d:\\rickandmortywiki\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9001614A-F7EE-ACAF-E5E7-E652F1622F56}|RickAndMortyWiki.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9001614A-F7EE-ACAF-E5E7-E652F1622F56}|RickAndMortyWiki.csproj|d:\\rickandmortywiki\\wrappers\\characterwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9001614A-F7EE-ACAF-E5E7-E652F1622F56}|RickAndMortyWiki.csproj|solutionrelative:wrappers\\characterwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9001614A-F7EE-ACAF-E5E7-E652F1622F56}|RickAndMortyWiki.csproj|d:\\rickandmortywiki\\models\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9001614A-F7EE-ACAF-E5E7-E652F1622F56}|RickAndMortyWiki.csproj|solutionrelative:models\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9001614A-F7EE-ACAF-E5E7-E652F1622F56}|RickAndMortyWiki.csproj|d:\\rickandmortywiki\\services\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9001614A-F7EE-ACAF-E5E7-E652F1622F56}|RickAndMortyWiki.csproj|solutionrelative:services\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9001614A-F7EE-ACAF-E5E7-E652F1622F56}|RickAndMortyWiki.csproj|d:\\rickandmortywiki\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9001614A-F7EE-ACAF-E5E7-E652F1622F56}|RickAndMortyWiki.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9001614A-F7EE-ACAF-E5E7-E652F1622F56}|RickAndMortyWiki.csproj|d:\\rickandmortywiki\\models\\episodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9001614A-F7EE-ACAF-E5E7-E652F1622F56}|RickAndMortyWiki.csproj|solutionrelative:models\\episodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9001614A-F7EE-ACAF-E5E7-E652F1622F56}|RickAndMortyWiki.csproj|d:\\rickandmortywiki\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9001614A-F7EE-ACAF-E5E7-E652F1622F56}|RickAndMortyWiki.csproj|solutionrelative:models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Response.cs",
+              "DocumentMoniker": "D:\\RickandMortyWiki\\models\\Response.cs",
+              "RelativeDocumentMoniker": "models\\Response.cs",
+              "ToolTip": "D:\\RickandMortyWiki\\models\\Response.cs",
+              "RelativeToolTip": "models\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T15:48:10.992Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CharacterWrapper.cs",
+              "DocumentMoniker": "D:\\RickandMortyWiki\\Wrappers\\CharacterWrapper.cs",
+              "RelativeDocumentMoniker": "Wrappers\\CharacterWrapper.cs",
+              "ToolTip": "D:\\RickandMortyWiki\\Wrappers\\CharacterWrapper.cs",
+              "RelativeToolTip": "Wrappers\\CharacterWrapper.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T18:24:57.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Episodes.cs",
+              "DocumentMoniker": "D:\\RickandMortyWiki\\models\\Episodes.cs",
+              "RelativeDocumentMoniker": "models\\Episodes.cs",
+              "ToolTip": "D:\\RickandMortyWiki\\models\\Episodes.cs",
+              "RelativeToolTip": "models\\Episodes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T16:03:06.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Character.cs",
+              "DocumentMoniker": "D:\\RickandMortyWiki\\models\\Character.cs",
+              "RelativeDocumentMoniker": "models\\Character.cs",
+              "ToolTip": "D:\\RickandMortyWiki\\models\\Character.cs",
+              "RelativeToolTip": "models\\Character.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T16:02:53.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "services.cs",
+              "DocumentMoniker": "D:\\RickandMortyWiki\\services\\services.cs",
+              "RelativeDocumentMoniker": "services\\services.cs",
+              "ToolTip": "D:\\RickandMortyWiki\\services\\services.cs",
+              "RelativeToolTip": "services\\services.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAMwBcAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T15:47:40.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\RickandMortyWiki\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\RickandMortyWiki\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAawFcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T15:32:03.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\RickandMortyWiki\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\RickandMortyWiki\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-13T15:29:06.679Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
